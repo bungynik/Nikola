@@ -1,0 +1,7 @@
+<DatabaseSettings>
+  <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+  <ServerVersion>Sql2014</ServerVersion>
+  <ServerName>SERVER2012R2-L1</ServerName>
+  <DatabaseName>BATest</DatabaseName>
+  <DatabaseInformation Version="1" />
+</DatabaseSettings>
