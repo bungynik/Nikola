@@ -1,0 +1,7 @@
+<DatabaseSettings>
+  <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+  <ServerVersion>Sql2014</ServerVersion>
+  <ServerName>SERVER2012R2-L1</ServerName>
+  <DatabaseName>ADW2014</DatabaseName>
+  <DatabaseInformation Version="1" />
+</DatabaseSettings>
